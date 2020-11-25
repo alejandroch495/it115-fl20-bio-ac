@@ -12,7 +12,7 @@ div.bnrimg {
     height: 560px;
     left: 0;
     top: 0;
-    background-image: url(/images/lnkdinbner.png);
+    background-image: url(images/lnkdinbner.png);
     background-size: cover;
     background-position: -200px 0;
 }
