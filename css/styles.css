@@ -1,0 +1,63 @@
+body {
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+div.bnrimg {
+    display: flex;
+    width: 100%;
+    height: 560px;
+    left: 0;
+    top: 0;
+    background-image: url(/images/lnkdinbner.png);
+    background-size: cover;
+    background-position: -200px 0;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    left: 50%;
+    justify-self: center;
+    align-self: center;
+}
+
+img#banner {
+    left: 0;
+    top: 0;
+}
+
+#dan {
+    display: flex;
+    margin-top: 15%;
+}
+
+.LI-profile-badge {
+    left: 50%;
+    top: 50%;
+    clear: both;
+}
+
+.image-cropper {
+    margin: 0;
+    padding: 0;
+    max-width: 400px;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    left: 300px;
+    top: 350px;
+}
+
+.image-cropper img {
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 150%;
+    margin: 0 0 0 -30%;
+    border-radius: 50%;
+}
