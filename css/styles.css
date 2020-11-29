@@ -11,7 +11,7 @@ body {
     height: 560px;
     left: 0;
     top: 0;
-    background-image: url(images/test1.png);
+    background-image: url(https://raw.githubusercontent.com/alejandroch495/it115-fl20-bio-ac/main/images/test1.png);
     background-size: cover;
     background-position: -200px 0;
 }
