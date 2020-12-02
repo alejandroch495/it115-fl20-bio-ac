@@ -44,19 +44,25 @@ img#banner {
     margin: 0;
     padding: 0;
     max-width: 400px;
-    height: 400px;
+    height: 440px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
     left: 300px;
-    top: 350px;
+    top: 360px;
 }
 
 .image-cropper img {
     display: block;
     margin: 0 auto;
     height: auto;
-    width: 150%;
-    margin: 0 0 0 -30%;
+    width: 190%;
+    height: 110%;
+    margin: 0 0 0 -50%;
     border-radius: 50%;
+}
+
+.center {
+    justify-self: center;
+    align-self: center;
 }
